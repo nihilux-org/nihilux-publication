@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## nihilux publication
 
-You can use the [editor on GitHub](https://github.com/nihilux-org/nihilux-publication/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+nihilux publication is a house of publication thought and built on open sources technologies and practices.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+the idea is to bring devops cultural revolution outside of the IT space, especially in the cultural space.
 
-### Markdown
+technology is everywhere, but it seems to miss its first ambition to ease and lean human processes.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+as, on one side, a published text is basically a source file with appropriate formatting, and, on the other side, review processes, based on any kind of workflow are now mature enough, it seems quite obvious to use git and integrated CI/CD tools to create a house of publication in 2020.
 
-```markdown
-Syntax highlighted code block
+for now, this is more a concept than a working organization. a kind of proof of concept.
 
-# Header 1
-## Header 2
-### Header 3
+anyone interested with this idea is welcome to share this interest...
 
-- Bulleted
-- List
+have fun,
 
-1. Numbered
-2. List
+take care,
 
-**Bold** and _Italic_ and `Code` text
+enjoy,
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nihilux-org/nihilux-publication/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+nihil
