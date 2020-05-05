@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body,a,a:visited,footer,.footer-col-wrapper {
+  background-color: #111 !important;
+  color: #a70000 !important;
+}
+
+header,footer,main {
+  border-top-color: #111 !important;
+  border-bottom-color: #111 !important;
+}
