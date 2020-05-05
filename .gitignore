@@ -72,6 +72,12 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
+# Actually, why will there be any reference of an IDE in the git repo ?
+.idea
+
+# Don't fix GemFile versions as everything is built on GitHub
+GemFile.lock
+
 ### macOS template
 # General
 .DS_Store
@@ -101,4 +107,4 @@ Temporary Items
 .apdisk
 
 # Local Jekyll files
-_site
+_site/
