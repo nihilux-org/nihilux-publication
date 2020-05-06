@@ -14,11 +14,15 @@ we also hope that bringing a way to publish and share ideas, to discuss them and
 
 for now, this is more a concept than a working organization. a kind of proof of concept.
 
+especially automatically built pdf and ePub are not yet published, nor are displayed the links to get them. it takes time to set everything up...
+
 as [**nihilux** L.P.](https://nihilux.org "nihilux home page") has been created in Québec, nihilux publication will publish everything in French, in English and in the language it has been written.
 
-please excuse us for launching an English version only first, it just takes time to set everything up...
+please excuse us for launching an English version only first, once again it takes time to set everything up...
 
 you can have a look at a prototype of what could be **_[nihilux publication catalog](./catalog "nihilux publication catalog")_** (at least on how this could look).
+
+after all, this is an [agile project](https://en.wikipedia.org/wiki/Agile_software_development "Wikipedia English article about Agile software development")
 
 anyone interested with this idea is welcome to share this interest...
 
