@@ -22,6 +22,38 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
+#publication-content {
+  margin-bottom: 33px;
+
+  p {
+    margin: 0 0 -23px;
+  }
+}
+
+.collection-list {
+  list-style-type: none;
+  padding: 0;
+
+  li {
+    padding: 0 0 0 7px;
+  }
+
+  a {
+    font-weight: bold;
+  }
+
+  span.publication-description {
+    font-weight: normal;
+    font-style: italic;
+  }
+}
+
+a.nav_link, a.nav_link:hover {
+  display: block;
+  font-style: italic;
+  font-weight: normal;
+}
+
 h1, h2, h3 {
   line-height:1.1;
 }
