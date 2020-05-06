@@ -22,6 +22,8 @@ please excuse us for launching an English version only first, once again it take
 
 you can have a look at a prototype of what could be **_[nihilux publication catalog](./catalog "nihilux publication catalog")_** (at least on how this could look).
 
+after all, this is an [agile project](https://en.wikipedia.org/wiki/Agile_software_development "Wikipedia English article about Agile software development"){:target="_blank"}
+
 anyone interested with this idea is welcome to share this interest...
 
 have fun,
