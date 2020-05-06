@@ -22,4 +22,4 @@ take care,
 
 enjoy,
 
-nihilux publicatipon comitee
+nihilux publication comitee
