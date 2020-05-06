@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+
+<p>{{content}}</p>
+
+<ul class="collection-list">
+{% for publication in page.publications %}
+    <li><a href="{{ page.baseurl }}/{{ publication.url }}" title="{{ publication.title }}">{{ publication.title }}{% if publication.description %}: <span class="publication-description">{{ publication.description }}</span>{% endif %}</a></li>
+{% endfor %}
+</ul>
+
+{% if page.tags %}
+<small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
+
+{% if page.skip_catalog_link != true %}
+<a href="/catalog" title="back to nihilux publication catalog" class="nav_link">back to catalog home</a>
+{% endif %}
+<a href="/" title="back to nihilux publication home page" class="nav_link">back to home</a>
