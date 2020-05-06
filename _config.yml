@@ -1,8 +1,6 @@
+title: nihilux/publication
+description: an open source house of publication
 theme: jekyll-theme-minimal
 markdown: kramdown
 kramdown:
   input: GFM
-
-site:
-  title: nihilux/publication
-  description: an open source house of publication
