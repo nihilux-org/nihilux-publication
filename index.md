@@ -16,6 +16,8 @@ for now, this is more a concept than a working organization. a kind of proof of 
 
 especially automatically built pdf and ePub are not yet published, nor are displayed the links to get them. it takes time to set everything up...
 
+before digging more deeply the licensing question, which is not an easy question, everything is released under GPLv3.
+
 as [**nihilux** L.P.](https://nihilux.org "nihilux home page"){:target="_blank"} has been created in Québec, nihilux publication will publish everything in French, in English and in the language it has been written.
 
 please excuse us for launching an English version only first, once again it takes time to set everything up...
