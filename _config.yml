@@ -1,6 +1,36 @@
 title: nihilux/publication
-description: an open source house of publication
+nihilux: nihilux
+project: publication
+repository: nihilux-org/nihilux-publication
+logo: "/assets/img/nihilux_logo.png"
+banner: "/assets/img/nihilux_banner.png"
 theme: jekyll-theme-minimal
+encoding: utf-8
+url: https://publication.nihilux.org
+include: ["CNAME"]
+baseurl: ""
+plugins:
+  - jekyll-polyglot
+  - jekyll-minifier
 markdown: kramdown
 kramdown:
   input: GFM
+languages: ["en", "fr"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "README.md", "LICENSE", "CNAME"]
+parallel_localization: true
+lang_from_path: true
+permalink: /:collection/:name
+collections_dir: catalog
+collections:
+  data-nightmare:
+    state: "active"
+    name:
+      en: data nightmare
+      fr: data cauchemar
+    description:
+      en: data is everywhere, nothing to celebrate
+      fr: la data est partout, rien à célébrer
+    output: true
+  unpretentious-poetry:
+    output: false

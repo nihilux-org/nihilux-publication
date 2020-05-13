@@ -2,6 +2,9 @@
 layout: post
 title: Manifeste aphone, à diffuser dans une impasse des interwebs, pour la structuration d'un art de la donnée
 author: nihil
+permalink: /catalog/data-nightmare/data-art-manifesto
+lang: en
+to_translate: true
 ---
 
 *En fait, David, mon chéri, c’est pour Sepúlveda*
