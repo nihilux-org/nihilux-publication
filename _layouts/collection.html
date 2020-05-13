@@ -6,17 +6,16 @@ layout: default
 
 <p>{{content}}</p>
 
+{% if site[page.collection] %}
+<p class="italic">{{ site.data.strings.texts }}</p>
 <ul class="collection-list">
-{% for publication in page.publications %}
-    <li><a href="{{ page.baseurl }}/{{ publication.url }}" title="{{ publication.title }}">{{ publication.title }}{% if publication.description %}: <span class="publication-description">{{ publication.description }}</span>{% endif %}</a></li>
+{% for publication in site[page.collection] %}
+    <li><a href="{{ publication.permalink }}" title="{{ publication.title }}">{{ publication.title }}{% if publication.description %}: <span class="publication-description">{{ publication.description }}</span>{% endif %}</a></li>
 {% endfor %}
 </ul>
-
-{% if page.tags %}
-<small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
 
 {% if page.skip_catalog_link != true %}
-<a href="/catalog" title="back to nihilux publication catalog" class="nav_link">back to catalog home</a>
+<a href="/catalog" title="{{ site.data.strings.back_to_catalog }}" class="nav_link">{{ site.data.strings.back_to_catalog }}</a>
 {% endif %}
-<a href="/" title="back to nihilux publication home page" class="nav_link">back to home</a>
+<a href="/" title="{{ site.data.strings.back_to_home }}" class="nav_link">{{ site.data.strings.back_to_home }}</a>
