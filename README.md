@@ -29,9 +29,7 @@ after all, this is an [agile project](https://en.wikipedia.org/wiki/Agile_softwa
 anyone interested with this idea is welcome to share this interest...
 
 have fun,
-
 take care,
-
 enjoy,
 
 nihilux publication comitee
