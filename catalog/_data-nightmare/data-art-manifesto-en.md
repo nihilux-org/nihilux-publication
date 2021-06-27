@@ -35,7 +35,6 @@ Nous voilà balayés
 Les milenials vont devenir une force politique
 Qu’ils le veuillent ou non
 Avec ou sans conscience politique
-Avec ou sans conscience politique
 Avec ou sans permission
 Avec ou sans l'aval des autres générations
 
