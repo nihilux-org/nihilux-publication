@@ -34,12 +34,8 @@ Nous voilà balayés
 Les milenials vont devenir une force politique
 Qu’ils le veuillent ou non
 Avec ou sans conscience politique
-Regarde les pyramides des âges des victimes, croise-les avec les listes électorales, et les résultats…
-Regarde…
-50 ans de découpage électoral, de mensonges par la carte pour créer le mensonge des urnes, foutus en l’air par une expérience de grève générale mondiale orchestrée par les pouvoirs capitalistes, pour leur propre survie
-
-*Les vieux blancs vont vraiment finir minoritaires, enfin, partout*
-*Au moins dans beaucoup d’endroits, pour sûr dans suffisamment d’endroits*
+Avec ou sans permission
+Avec ou sans l'aval des autres générations.
 
 La crise du néolibéralisme, même s’il a tout fait pour la rendre invisible,
 Est bien profonde
