@@ -35,7 +35,7 @@ Les milenials vont devenir une force politique
 Qu’ils le veuillent ou non
 Avec ou sans conscience politique
 Avec ou sans permission
-Avec ou sans l'aval des autres générations.
+Avec ou sans l'aval des autres générations
 
 La crise du néolibéralisme, même s’il a tout fait pour la rendre invisible,
 Est bien profonde
